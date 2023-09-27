@@ -26,7 +26,7 @@ function App() {
         <Slider3 />
         <SecondShadowHeading />
         <OlympicExperience />
-        <Slider4 />
+        // <Slider4 />
         <ThirdShadowHeading heading="Meet the hosts" />
         <Slider5 />
         <Booking />
